@@ -1,0 +1,22 @@
+<-- create database -->
+create database quickview_db;
+<-- create table -->
+create table quickviewtable;
+<-- select query  -->
+
+select * from quickviewtable;
+
+<-- insert query -->
+
+insert into quickviewtable values
+('pro101','bath saop','45.00');
+insert into quickviewtable values
+('pro102','hand wash','75.00');
+insert into quickviewtable values
+('pro103','cold cream','35.00');
+insert into quickviewtable values
+('pro104','neem tel','85.00');
+insert into quickviewtable values
+('pro105','natural tel','133.00');
+insert into quickviewtable values
+('pro106','green apple gel','25.00');
